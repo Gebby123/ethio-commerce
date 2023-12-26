@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+    color: #111;
+    font-style: italic;
+
+
+}
+.dogimages{
+    width: 100%;
+    object-fit: contain;
+  
+    display: flex;
+    justify-content: center;
+}
